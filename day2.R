@@ -20,6 +20,7 @@ result = forward * depth
 
 result
 
+#check if correct
 
 f = sum(dive$V2[dive$V1 == "forward"])
 d = sum(dive$V2[dive$V1 == "down"])
